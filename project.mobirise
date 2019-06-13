@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Session.html",
+    "currentPage": "student.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 16,
+    "uniqCompNum": 19,
     "versionPublish": "4.10.2"
   },
   "pages": {
@@ -559,11 +559,19 @@
         }
       ]
     },
-    "Session.html": {
+    "student.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Student Detail",
+        "order": 3
+      },
+      "components": []
+    },
+    "Summary.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Session Summary ",
-        "order": 2
+        "title": "Lever - Session Summary ",
+        "order": 1
       },
       "components": [
         {
@@ -739,11 +747,11 @@
         }
       ]
     },
-    "page1.html": {
+    "Session.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Lever - Event Engagement ",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
